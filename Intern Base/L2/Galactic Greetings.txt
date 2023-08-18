@@ -1,0 +1,6 @@
+Briefing L02 C03
+
+Galactic Greetings
+Upon locating a strange signal from deep space, agents from the Cyber Protection Agency have been trying to make sense of its output but have failed so far. We think that the output is being encoded using Binary. So, we believe that if we can decode the output we will reveal a hidden message! Can you help us do that?
+
+Tip: Search the Internet for tools that can decode binary.

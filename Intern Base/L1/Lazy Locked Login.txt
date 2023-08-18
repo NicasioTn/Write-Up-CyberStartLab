@@ -1,0 +1,8 @@
+Briefing L01 C04
+
+Lazy Locked Login
+The agency recently purchased a homehub for the office to automate appliances like lights and thermostats. But recently, we've been receiving complaints about irregular temperature changes and lights unpredictably turning on and off.
+
+We've found where you can access the homehub settings along with the sign in details, but it turns out you can only submit the form and sign in from a technicians laptop. We need you to figure out how we can bypass this restriction so we can adjust the settings and restore normality in the office!
+
+Tip: Try to inspect the login form with the tools provided to see what is stopping you from submitting the form and signing in.

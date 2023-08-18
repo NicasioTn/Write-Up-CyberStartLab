@@ -1,0 +1,10 @@
+Briefing L02 C04
+
+Rover Rodeo
+The agency has traced a strange signal from space that leads back to a nearby planet. In anticipation, we have sent a remote-controlled rover to its surface to uncover what might be sending the signal. Your mission is to navigate the rover to the location marked with a green flag and complete any side missions on the way.
+
+But there's a problem. The software used to control the rover wasn't completed in time for this mission. This means you're going to need to input any instructions to the rover manually via your browser's console. Don't worry, one of our agents will guide you on how to get access.
+
+Good luck!
+
+Tip: Move the rover to the green flag, using the browser's developer console, to receive the flag.

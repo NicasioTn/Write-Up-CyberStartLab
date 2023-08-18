@@ -1,0 +1,8 @@
+Briefing L03 C04
+
+The Final Countdown
+The main tourism website for Barcelona has been hacked. The hackers have devised a program that changes the content of the website based on a timer. You can imagine the confusion this has been causing the sites visitors! Can you figure out how we can get the secret code to stop this program from running?
+
+It'll be tricky - they appear to use a script to join multiple sets of content together and finally send the joined sets to somewhere else to validate.
+
+Tip: The characters at the 5 URLs change quickly, but computers can be far quicker than humans, especially when getting data!

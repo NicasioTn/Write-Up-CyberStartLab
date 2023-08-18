@@ -1,0 +1,8 @@
+Briefing L02 C02
+
+First Contact
+The Cyber Protection Agency has launched a satellite into space. Its main goal is to help monitor criminal activities back on Earth... or so we thought. Instead, we’ve detected a strange signal coming from deep space!
+
+Curiosity has got the better of us and we’d like to explore where the signal is coming from. But, the satellite's software isn’t working correctly and we are unable to target objects from the region of space the signal is coming from. Can you find a way around it?
+
+Tip: Try selecting items in the space scene and find somewhere to put the coordinates.
